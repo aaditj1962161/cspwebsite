@@ -1,1 +1,2 @@
-# cspwebsite
+npm version patch
+npm publish
